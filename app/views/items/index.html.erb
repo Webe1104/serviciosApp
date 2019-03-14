@@ -1,13 +1,14 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Items</h1>
+<a data-js-hide-link="true" href="">Hide</a>
 
-<table>
+<table class="highlight">
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Area</th>
-      <th>Catalog</th>
+      <th>Catálogos</th>
+      <th>Áreas</th>
+      <th>Items</th>
+      <th>Actions</th>
       <th colspan="4"></th>
     </tr>
   </thead>
@@ -15,17 +16,34 @@
   <tbody>
     <% @items.each do |item| %>
       <tr>
-        <td><%= item.name %></td>
-        <td><%= item.area.name %></td>
         <td><%= item.area.catalog.name %></td>
-        <td><%= link_to 'Show', item %></td>
-        <td><%= link_to 'Edit', edit_item_path(item) %></td>
-        <td><%= link_to 'Destroy', item, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= item.area.name %></td>
+        <td><%= item.name %></td>
+        <td>
+          <div style="display: inline-flex;">
+            <%= link_to item do %>
+              <i class="material-icons left">clear_all</i>
+            <% end %>
+            <%= link_to edit_item_path(item) do %>
+              <i class="material-icons left">edit</i>
+            <% end %>
+            <%= link_to item, method: :delete, data: { confirm: '¿Estás seguro de eliminar el elemento?' }  do %>
+              <i class="material-icons left">delete</i>
+            <% end %>
+          </div>
+           <!--  <a class='dropdown-trigger' href='#' data-target='crud_options'>...</a>
+            <ul id='crud_options' class='dropdown-content'>
+              <li><%= link_to 'Mostrar', item %></li>
+              <li><%= link_to 'Editar', edit_item_path(item) %></li>
+              <li><%= link_to 'Eliminar', item, method: :delete, data: { confirm: '¿Estás seguro que deseas eliminar el elemento?' } %></li>
+            </ul> -->
+        </td>
       </tr>
     <% end %>
   </tbody>
 </table>
 
 <br>
+
 
 <%= link_to 'New Item', new_item_path %>

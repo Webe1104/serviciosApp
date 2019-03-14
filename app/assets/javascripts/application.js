@@ -13,4 +13,20 @@
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
+//= require jquery3
+//= require jquery_ujs
+//= require materialize
+//= require materialize-sprockets
 //= require_tree .
+
+$(document).ready(function() {
+  $('[data-js-hide-link]').click(function(event){
+    alert('You clicked the Hide link');
+    event.preventDefault(); 
+  });
+  materialize_init();
+})
+
+function materialize_init(){
+	$('.dropdown-trigger').dropdown();
+}

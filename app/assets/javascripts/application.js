@@ -20,13 +20,24 @@
 //= require_tree .
 
 $(document).ready(function() {
-  $('[data-js-hide-link]').click(function(event){
-    alert('You clicked the Hide link');
-    event.preventDefault(); 
-  });
+  // $('[data-js-hide-link]').click(function(event){
+  //   alert('You clicked the Hide link');
+  //   event.preventDefault(); 
+  // });
   materialize_init();
 })
 
 function materialize_init(){
 	$('.dropdown-trigger').dropdown();
+	$('.sidenav').sidenav();
+}
+
+function openMenu(){
+	console.log('abriendo el menu');
+	var a = document.getElementById('slide-out');
+	$('.sidenav').sidenav('open');
+	var instance = M.Sidenav.getInstance(a);
+	var instance2 = M.Sidenav.getInstance(document.getElementById('slide-out'));
+	console.log(a,instance, instance2);
+	instance.open();
 }

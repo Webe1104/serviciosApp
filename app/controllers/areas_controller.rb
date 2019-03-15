@@ -65,9 +65,7 @@ class AreasController < ApplicationController
 
   def import
     Area.import(params[:file])
-    puts params[:file]
-    puts '---------------------------'
-    redirect_to areas_url, notice: 'Items importados'
+    redirect_to areas_url, notice: 'Áreas importados'
   end
 
   private

@@ -6,7 +6,6 @@ class Area < ApplicationRecord
     def self.import(file)
     	CSV.foreach(file.path, headers: true) do |row|
         area = Area.new(name: row["name"])
-
         area.catalog_id = Catalog.where(name: row["Catalog"]).to_a.first.id
         area.save
   		end

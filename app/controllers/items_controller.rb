@@ -63,14 +63,8 @@ class ItemsController < ApplicationController
   end
 
   def import
-    # @item = Item.new[:file]
-    # redirect_to root_url, notice: 'Items importados'
-
-    csv_text = File.read('...')
-    csv = CSV.parse(csv_text, :headers => true)
-    csv.each do |row|
-      Moulding.create!(row.to_hash)
-    end
+    Item.import(params[:file])
+    redirect_to items_url, notice: 'Items importados'
   end
 
   private

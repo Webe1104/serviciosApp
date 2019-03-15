@@ -1,14 +1,23 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong>Name:</strong>
-  <%= @area.name %>
-</p>
+<table class="highlight">
+  <thead>
+    <tr>
+      <th>Servicio</th>
+      <th>Área</th>
+      <th colspan="2"></th>
+    </tr>
+  </thead>
 
-<p>
-  <strong>Catalog:</strong>
-  <%= @area.catalog.name %>
-</p>
+  <tbody>
+      <tr>
+        <td><%= @area.catalog.name %></td>
+        <td><%= @area.name %></td>
+      </tr>
+  </tbody>
+</table>
+
+<br>
 
 <%= link_to 'Edit', edit_area_path(@area) %> |
 <%= link_to 'Back', areas_path %>

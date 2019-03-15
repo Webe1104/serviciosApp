@@ -1,14 +1,22 @@
 <p id="notice"><%= notice %></p>
 
-<a data-js-hide-link="true" href="">Hide</a>
+<!-- <a data-js-hide-link="true" href="">Hide</a> -->
+<h1>Items</h1>
+
+<p>Para subir items selecciona un archivo .csv </p>
+<div style="display: table-caption;">
+  <%= form_tag import_items_path, multipart: true do%>
+    <%= file_field_tag :file%>
+    <%= submit_tag "Cargar items"%>
+  <% end %>
+</div>
 
 <table class="highlight">
   <thead>
     <tr>
-      <th>Catálogos</th>
-      <th>Áreas</th>
-      <th>Items</th>
-      <!-- <th>Acciones</th> -->
+      <th>Servicio <%= link_to raw("<i class='material-icons left'>add</i>"), new_catalog_path %></th>
+      <th>Área <%= link_to raw("<i class='material-icons left'>add</i>"), new_area_path %></th>
+      <th>Items <%= link_to raw("<i class='material-icons left'>add</i>"), new_item_path %></th>
       <th colspan="4"></th>
     </tr>
   </thead>
@@ -46,5 +54,3 @@
 <br>
 
 
-
-<%= link_to 'New Item', new_item_path %>

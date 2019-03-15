@@ -64,7 +64,7 @@ class CatalogsController < ApplicationController
 
   def import
     Catalog.import(params[:file])
-    redirect_to @catalog, notice: 'Items importados'
+    redirect_to catalogs_url, notice: 'Items importados'
   end
 
   private

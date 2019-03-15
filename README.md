@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Se realizó el proyecto en ruby on rails la cual usa MVC. Se escogió éste framework por la facilidad que tiene para generar el CRUD de un modelo, usé scaffolding para generarlos.
 
-Things you may want to cover:
+La app funciona para todos los dispositivos, no tiene estilos diferentes para mobile por la sencillez de la interfaz.
 
-* Ruby version
+- Lista de Pendientes
 
-* System dependencies
+	* Filtros
+	* Paginación
+	* Buscador
+	* Validaciones
 
-* Configuration
+- Versiones
 
-* Database creation
+	* Ruby version ruby 2.3.7
+	* Rails version Rails 5.2.2.1
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

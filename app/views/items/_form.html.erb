@@ -16,10 +16,11 @@
     <%= form.text_field :name %>
   </div>
 
-  <div class="field">
+  <!-- <div class="field">
     <%= form.label :area_id %>
     <%= form.text_field :area_id %>
-  </div>
+  </div> -->
+  <%=select("post", "area_id", Area.all.collect {|p| [ p.name, p.id ] })%>
 
   <div class="actions">
     <%= form.submit %>

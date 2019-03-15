@@ -5,8 +5,8 @@
 <table>
   <thead>
     <tr>
-      <th>Name</th>
       <th>Catalog</th>
+      <th>Area</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -14,8 +14,8 @@
   <tbody>
     <% @areas.each do |area| %>
       <tr>
-        <td><%= area.name %></td>
         <td><%= area.catalog.name %></td>
+        <td><%= area.name %></td>
         <td><%= link_to 'Show', area %></td>
         <td><%= link_to 'Edit', edit_area_path(area) %></td>
         <td><%= link_to 'Destroy', area, method: :delete, data: { confirm: 'Are you sure?' } %></td>
@@ -26,10 +26,10 @@
 
 <br>
 
-<!-- <ul>
-  <% @areas.each do |area| %>
-    <li><%= link_to area.name, area_path(area)  %></li>
-  <% end %>
-</ul> -->
+<h2>Subiendo Areas</h2>
+<%= form_tag import_areas_path, multipart: true do%>
+  <%= file_field_tag :file%>
+  <%= submit_tag "Import data"%>
+<% end %>
 
 <%= link_to 'New Area', new_area_path %>

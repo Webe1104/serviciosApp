@@ -1,6 +1,8 @@
 Rails.application.routes.draw do
   resources :items 
-  resources :areas
+  resources :areas do
+  	collection { post :import}
+  end
   resources :catalogs do
   	collection { post :import}
   end

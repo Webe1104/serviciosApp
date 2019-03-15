@@ -24,8 +24,9 @@ class ItemsController < ApplicationController
   # POST /items
   # POST /items.json
   def create
-    @item = Item.new(item_params)
-
+    @item = Item.new
+    @item.name = item_params[:name]
+    @item.area_id = params[:post][:area_id]
     respond_to do |format|
       if @item.save
         format.html { redirect_to @item, notice: 'Item was successfully created.' }

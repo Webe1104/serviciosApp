@@ -6,7 +6,6 @@
   <thead>
     <tr>
       <th>Catálogos</th>
-      <th>Catálogos ID's</th>
       <th>Áreas</th>
       <th>Items</th>
       <!-- <th>Acciones</th> -->
@@ -18,7 +17,6 @@
     <% @items.each do |item| %>
       <tr>
         <td><%= item.area.catalog.name%></td>
-        <td><%= item.area.catalog.id %></td>
         <td><%= item.area.name %></td>
         <td><%= item.name %></td>
         <td>

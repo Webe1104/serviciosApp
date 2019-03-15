@@ -63,6 +63,13 @@ class AreasController < ApplicationController
     end
   end
 
+  def import
+    Area.import(params[:file])
+    puts params[:file]
+    puts '---------------------------'
+    redirect_to @areas, notice: 'Items importados'
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_area

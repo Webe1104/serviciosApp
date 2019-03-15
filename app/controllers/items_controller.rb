@@ -61,6 +61,17 @@ class ItemsController < ApplicationController
     end
   end
 
+  def import
+    # @item = Item.new[:file]
+    # redirect_to root_url, notice: 'Items importados'
+
+    csv_text = File.read('...')
+    csv = CSV.parse(csv_text, :headers => true)
+    csv.each do |row|
+      Moulding.create!(row.to_hash)
+    end
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_item

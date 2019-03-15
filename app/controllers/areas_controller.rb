@@ -24,15 +24,16 @@ class AreasController < ApplicationController
   # POST /areas
   # POST /areas.json
   def create
-    @area = Area.new(area_params)
-    puts area_params
+    @area = Area.new
+    @area.name = area_params[:name]
+    @area.catalog_id = params[:post][:catalog_id]
     respond_to do |format|
       if @area.save
         format.html { redirect_to @area, notice: 'Area was successfully created.' }
         format.json { render :show, status: :created, location: @area }
       else
-        format.html { render :new }
         puts 'cae en el error de crear area!!!!!!!!!'
+        format.html { render :new }
         format.json { render json: @area.errors, status: :unprocessable_entity }
       end
     end

@@ -5,6 +5,7 @@
 <table>
   <thead>
     <tr>
+      <th>ID</th>
       <th>Name</th>
       <th colspan="3"></th>
     </tr>
@@ -13,6 +14,7 @@
   <tbody>
     <% @catalogs.each do |catalog| %>
       <tr>
+        <td><%= catalog.id %></td>
         <td><%= catalog.name %></td>
         <td><%= link_to 'Show', catalog %></td>
         <td><%= link_to 'Edit', edit_catalog_path(catalog) %></td>
@@ -23,5 +25,12 @@
 </table>
 
 <br>
+
+
+<h2>Subiendo Servicios</h2>
+<%= form_tag import_catalogs_path, multipart: true do%>
+  <%= file_field_tag :file%>
+  <%= submit_tag "Import data"%>
+<% end %>
 
 <%= link_to 'New Catalog', new_catalog_path %>

@@ -1,0 +1,855 @@
+Area,name
+Accesorios,Cable de Red
+Accesorios,Cable de Teléfono
+Accesorios,Cable de energia
+Accesorios,Tonner
+Access Point,Acceso
+Access Point,Cobertura
+Access Point,SSID
+Account,Login
+Account,Password
+Account,Signup
+Accounts,Profile
+Active Directory,Cuenta
+Active Directory,Recurso de Red
+Active Directory,Red
+Actividades recurrentes,Alta
+Actividades recurrentes,Baja
+Actividades recurrentes,Cambios
+Actividades recurrentes,Configuración
+Actividades relacionadas al trabajo,Actividades individuales en computadora
+Actividades relacionadas al trabajo,Actividades sin computadora
+Actividades relacionadas al trabajo,Categorias en computadora
+Administrador,Eliminación
+Administrador,Invitación
+Administrador,Rol de Administrador a Gerente
+Administration,Change Rol
+Administration,Delete Admin/Manager
+Administration,Invite Admin/Manager
+Agentes,Antivirus
+Agentes,Clonación
+Agentes,DeskOne
+Agentes,Discoverer
+Agentes,Lync
+Agentes,Meta4 EMIND
+Agentes,PeopleNet
+Agentes,Respaldo
+Agentes,Trusted Link
+Agentes,VPN Cisco AnyConnect
+Agentes,VPN Cisco Client
+Agents,Mac
+Agents,Windows
+Antivirus,Configuración
+Antivirus,Falla
+Aplicaciones,Antivirus
+Aplicaciones,Banca Electronica
+Aplicaciones,Befective
+Aplicaciones,FireFox
+Aplicaciones,Google Calendar
+Aplicaciones,Google Chrome
+Aplicaciones,Google Drive
+Aplicaciones,Google Mail
+Aplicaciones,Internet Explorer
+Aplicaciones,Java
+Aplicaciones,Microsoft Office
+Aplicaciones,RDP
+Aplicaciones,RedBooth
+Aplicaciones,Reloj Checador
+Aplicaciones,SalesForce
+Aplicaciones,SugarCRM
+Aplicaciones,itManager
+Aplicaciones Servidor,Consola Antivirus
+Aplicaciones Servidor,DNS
+Aplicaciones Servidor,Dominio
+Aplicaciones Servidor,SQL
+Aplicación Oracle,Actualizaciones
+Aplicación Oracle,Clonados
+Aplicación Oracle,Concurrentes
+Aplicación Oracle,Desarrollos
+Aplicación Oracle,Menus
+Aplicación Oracle,Monitoreo
+Aplicación Oracle,Personalizaciones
+Aplicación Oracle,Procesos
+Aplicación Oracle,Rendimiento
+Aplicación Oracle,Responsabilidades
+Aplicación Oracle,Scripts
+Aplicación Oracle,Usuarios
+Applications,ACT
+Applications,Agente
+Applications,Antivirus
+Applications,COI
+Applications,GEMINIS (CHECADOR)
+Applications,Loop Fabric
+Applications,MS Office
+Applications,NOI
+Applications,SAE
+Applications,WINDOWS
+Applications,Web Browser
+Applicatons,ADAMS
+Applicatons,Antivirus
+Applicatons,E-mail
+Applicatons,MS Office
+Applicatons,Windows
+Applicatons,vmWare
+Assessment,ADAMS
+Assessment,Facturación Eletrónica
+Assessment,JD Edwards
+Assessment,MS Office
+Assessment,Printing
+Assessment,Windows
+Assessment,eFom
+Assessment,vmWare
+Automated Statistics,Create
+Automated Statistics,Manage
+BLIS,Cuenta
+BLIS,Privilegios
+Base de Datos,Actualizaciones
+Base de Datos,Almacenamiento
+Base de Datos,Clonado
+Base de Datos,Configuración
+Base de Datos,Creación de Objetos
+Base de Datos,DRP
+Base de Datos,Datos
+Base de Datos,FailOver
+Base de Datos,Mantenimiento Correctivo
+Base de Datos,Mantenimiento Preventivo
+Base de Datos,Monitoreo
+Base de Datos,Objetos
+Base de Datos,Parametros
+Base de Datos,Procesos
+Base de Datos,Reinicio
+Base de Datos,Rendimiento
+Base de Datos,Scripts
+Base de Datos,Usuarios
+CCTV,Acceso
+CCTV,Videos
+CPU,Disco Duro
+CPU,Formateo
+CPU,Instalación
+CPU,No enciende
+Cable de Red,Cambio
+Cable de Red,Falla
+Catálogo de Servicio,Alta
+Catálogo de Servicio,Asignación
+Catálogo de Servicio,Asistencia
+Catálogo de Servicio,Baja
+Catálogo de Servicio,Cambios
+Catálogo de Servicio,Esfuerzo
+Catálogo de Servicio,Solución
+Checklists,Clientes
+Checklists,Editar Campos
+Checklists,Nuevo Checklist
+Checklists,Obligatorio
+Checklists,Tipo
+Clientes,Alta
+Clientes,Baja
+Clientes,Configuración
+Clientes,Grupos de Equipos
+Clientes,Relaciones
+Clientes,Usuarios
+Clientes de Correo,Domino NT
+Clientes de Correo,Outlook
+ColaboraTupy,ColaboraTupy LOLO
+Colaboración,Lync
+Colegas,Asignación de primer equipo
+Colegas,Cambio de equipo
+Colegas,Creación
+Colegas,Eliminación
+Colegas,En Espera
+Colegas,Icono de Befective
+Colegas,Ignorados
+Colegas,Pop-up de actividades sin computadora
+Colegas,Pop-up de estado de animo
+Company,Goals & Rules
+Company,Information
+Compartir Estadísticas,Email
+Compartir Estadísticas,Excel
+Compartir Estadísticas,PDF
+Complains,Human Service
+Complains,Payment
+Complains,Platform
+Compresión de Datos,7zip
+Compresión de Datos,TARZip
+Compresión de Datos,WinRar
+Compresión de Datos,Winzip
+Comunicaciones,Configuración
+Comunicaciones,Equipo sn registrar
+Comunicaciones,Gabinete
+Comunicaciones,Instalación
+Comunicaciones,ParchCore
+Comunicaciones,Rack
+Comunicaciones,Sin conexión
+Comunicaciones,Usuario no identificado
+Configuración,Actividades No Productivas
+Configuración,Actividades Productivas
+Configuración,Asignación de Roles
+Configuración,Eficiencias
+Configuración,Infomes
+Configuración,Preguntas Offline
+Configuración de Acceso Remoto,Aplicar a los equipos
+Configuración de Acceso Remoto,Seleccione Cliente
+Configuración de Acceso Remoto,Seleccione una acción
+Configuración de Organización,Idioma
+Configuración de Organización,Logo - Busqueda de archivo
+Configuración de Organización,Mensaje copyright
+Configuración de Organización,Moneda
+Configuración de Organización,Notificación de organización
+Configuración de Organización,Organización eMail
+Configuración de Organización,Usar copyright
+Configuración de Organización,Usar logo cliente
+Configuración de Organización,Usar logo itManager
+Configuración de Organización,Uso Horario
+Contracts,General
+Contratos,Alta
+Contratos,Baja
+Contratos,Cambios
+Controladora,Configuración
+Controladora,DNS
+Controladora,Falla
+Controladora,Usuarios
+Corte de caja,Cargos pendientes
+Corte de caja,Error en formas de pago
+Corte de caja,No genera corte
+Corte de caja,No imprime corte
+Corte de caja,No se envía corte
+Corte de caja,Nota de venta sin datos
+Create New Team / Subteam,Away Activities
+Create New Team / Subteam,Befective Activated
+Create New Team / Subteam,Consider Away After
+Create New Team / Subteam,Copy Goals and Rules
+Create New Team / Subteam,Mood Feature
+Create New Team / Subteam,My Stats Feature
+Create New Team / Subteam,Question
+Create New Team / Subteam,Time Goal
+Create New Team / Subteam,Work Goal
+Código Telefónico,Código
+Código Telefónico,Privilegios
+Desktop,CPU
+Desktop,Fuente de Poder
+Desktop,Gabinete
+Desktop,HDD
+Desktop,Mother Board
+Desktop,RAM
+Desktop,Tarjeta de Audio
+Desktop,Tarjeta de Red
+Desktop,Tarjeta de Video
+Desktop,Unidad Óptica
+Discoverer,Cuenta
+Discoverer,Información
+Discoverer,Interface
+Discoverer,Modificacion Reporte
+Discoverer,Nuevo Reporte
+Distribución,Host
+Distribución,Host Port
+Distribución,Repetidor VNC
+Distribución,SSL
+Documentos,Acrobat
+Documentos,Adobe
+Documentos,Excel
+Documentos,Office
+Documentos,Powerpoint
+Documentos,Project
+Documentos,Sharepoint
+Documentos,Visio
+Documentos,Word
+Días Libres,Equipo
+Días Libres,Individual
+Días Libres,Organizacional
+Ejecutivo,Actividad Individual
+Ejecutivo,Actividades
+Ejecutivo,Colegas
+Ejecutivo,Equipos
+Ejecutivo,Estados de ánimo
+Ejecutivo,Meta de Tiempo
+Ejecutivo,Meta de Trabajo
+Ejecutivo,Resumen
+Epicor,Agente
+Equipos,Actividades relacionadas al trabajo
+Equipos,Actualización de información
+Equipos,Cambio en la estructura organizacional
+Equipos,Copia de metas y reglas
+Equipos,Creación
+Equipos,Diferencias entre equipo y sub-equipo
+Equipos,Eliminación
+Equipos,Meta de tiempo
+Equipos,Reglas de actividades en computadora
+Equipos,Reglas de actividades sin computadora
+Estadísticas Automáticas,Activación/Desactivación
+Estadísticas Automáticas,Actualización
+Estadísticas Automáticas,Creación
+Estadísticas Automáticas,Eliminación
+Exchange,Cuenta
+Exchange,Cuota
+Exchange,Lista de Distribucion
+Exchange,Privilegios
+Executive,Activities
+Executive,Highlights
+Executive,Mood
+Executive,Single Activity (away)
+Executive,Single Activity (computer)
+Executive,Teammates
+Executive,Teams
+Executive,Time Goal
+Executive,Work Goal
+Fabricantes,Acer
+Fabricantes,Apple
+Fabricantes,Dell
+Fabricantes,HP
+Fabricantes,Meraki
+Facturación,Azurian / ATEB COFIDI
+Facturación,Embarques
+Facturación,Facturas
+Facturación,Notas de Credito
+Facturación,Notas de Debito
+Feriados,Alta
+Feriados,Baja
+Feriados,Cambio
+Fija,Aparato
+Fija,Cableado
+Fija,Conmutador
+Fija,Extensiones
+Fija,Línea directa
+FolderCompartido,Carpeta
+FolderCompartido,Permisos
+Free Days,Create Free Day
+Free Days,Delete Free Day
+Funcionalidades,Mejora a una existente
+Funcionalidades,idea nueva
+Future,Agente
+General,Distribución de agentes
+General,Falla
+General,Idioma
+General,Uso Horario
+Gerente,Eliminación
+Gerente,Equipos para gerenciar
+Gerente,Invitación
+Gerente,Rol de Gerente a Administrador
+Google Chrome,Actualización
+Google Chrome,Configuración
+Google Chrome,Desinstalación
+Google Chrome,Falla
+Google Chrome,Instalación
+Grupo de Agentes,Alta
+Grupo de Agentes,Baja
+Grupo de Agentes,Expediente
+Grupo de Agentes,Información General
+Grupo de Agentes,Miembros
+Grupos de Permisos,Alta
+Grupos de Permisos,Baja
+Grupos de Permisos,Grupo de Agentes
+Grupos de Permisos,Permisos - Administrativo
+Grupos de Permisos,Permisos - Cliente
+Grupos de Permisos,Permisos - Gerencia
+Grupos de Permisos,Permisos - Informe
+Grupos de Permisos,Permisos - Técnico
+Grupos de Permisos,Usuarios
+HR Requests,Alta de Usuario
+HR Requests,Baja de Usuario
+HR Requests,Cambio de Usuario
+Hardware,Bateria
+Hardware,Cable HDMI
+Hardware,Cable Telefonico
+Hardware,Cable VGA
+Hardware,Cable de Red
+Hardware,Cambio de toner
+Hardware,Cambio de ubicación
+Hardware,Dockinstation
+Hardware,Eliminador
+Hardware,Escaneo
+Hardware,Escaner
+Hardware,Garantía
+Hardware,HDD
+Hardware,Impresión
+Hardware,Impresora
+Hardware,Keyboard
+Hardware,Mantenimiento
+Hardware,Mobile
+Hardware,Monitor
+Hardware,MotherBoard
+Hardware,Mouse
+Hardware,No Break
+Hardware,Printer
+Hardware,SAN
+Hardware,SERVERS
+Hardware,Teléfono Fijo
+Hardware,Work Station
+Historical,General / Many Days
+Historical,General / One Day
+Historical,Single Teammate / Many Days
+Historical,Single Teammate / One Day
+Histórico,Colega por día
+Histórico,Colega por hora
+Histórico,Colega por horas
+Histórico,General
+Histórico,General por día
+Hoy,Detalles
+Hoy,Resumen
+IT Requests,Alta de Elemento en Catálogo
+IT Requests,Baja de Elemento de Catálogo
+IT Requests,Cambio de Elemento de Catálogo
+IT Requests,Cambio de Privilegios de Acceso a Red
+IT Requests,Identidad y Acceso
+IT Requests,Prestamo de Cables / Adaptadores de Energía
+IT Requests,Prestamo de Equipo de Computo
+IT Requests,Prestamo de Monitor
+IT Requests,Prestamo de Proyector
+IT Requests,Solicitud de Base de Datos
+IT Requests,Solicitud de Servidor
+Implementación,Permisos de equipo
+Implementación,Requerimentos Técnicos
+Implementación,Servicio de Red
+Impresión,Etiquetadora
+Impresión,Multifuncional
+Impresión,Plotter
+Impresión,Rugger Writer
+Impresión,Sato
+Impresión,Zebra
+Impresoras,Asesoria
+Impresoras,Configuración
+Impresoras,Instalación
+Información,Logo
+Información,Nombre
+Información,Sitio Web
+Información,Teléfono
+Informes,Alta
+Informes,Baja
+Informes,Cambios
+Infraestructura,1and1
+Infraestructura,Aire de Precisión
+Infraestructura,Almacenamiento
+Infraestructura,CDMON
+Infraestructura,Cableado de Datos
+Infraestructura,Cableado de Energia
+Infraestructura,Cisco
+Infraestructura,DNS
+Infraestructura,Enlace MPLS
+Infraestructura,Enlace Respaldo
+Infraestructura,Gabinete
+Infraestructura,Google Apps
+Infraestructura,Office 365
+Infraestructura,Planta de Energia
+Infraestructura,ProfitBricks
+Infraestructura,Rack
+Infraestructura,UPS
+Ingeniería,3D- Data Express
+Ingeniería,Arena-Flow
+Ingeniería,AutoCad
+Ingeniería,CATIA
+Ingeniería,Camino Studio
+Ingeniería,FUTURE
+Ingeniería,Fluke
+Ingeniería,MAGMA
+Ingeniería,MP9
+Ingeniería,NX
+Ingeniería,PC-DEMMIS
+Ingeniería,PRO-E
+Ingeniería,QGAGES
+Ingeniería,Solid Work
+Ingeniería,Team Mate
+Ingeniería,TrustedLink
+Internet,Cuenta
+Internet,Intermitencia
+Internet,Lento
+Internet,Privilegio
+Internet,Sin conexión
+Internet Explorer,Actualización
+Internet Explorer,Configuración
+Internet Explorer,Desinstalación
+Internet Explorer,Falla
+Internet Explorer,Instalación
+Intranet,Configuración
+Intranet,Hackeo
+Intranet,Modificación
+Intranet,No abre página
+Inventario,Agentes Mac instalados
+Inventario,Agentes Windows instalados
+Inventory,Installed Agents
+JDE,Compras
+JDE,Contabilidad General
+JDE,Cuentas por Cobrar
+JDE,Cuentas por Pagar
+JDE,Inventario
+JDE,Ventas
+LOLO1,LALLA
+LOLO2,-------
+LOLO2,LALA1
+Laptop,Adaptador de energia
+Laptop,Bateria
+Laptop,Formateo
+Laptop,Fuente de Poder Integrada
+Laptop,HDD Interno
+Laptop,Instalación
+Laptop,Mother Board
+Laptop,No enciende
+Laptop,Pantalla
+Laptop,Puerto HDMI
+Laptop,Puerto VGA
+Laptop,Puertos USB
+Laptop,RAM
+Laptop,Teclado Integrado
+Laptop,Touch Pad
+Laptop,Unidad óptica
+Learn Videos,Downloads
+Learn Videos,Statistics
+Learn Videos,Teams & Teammates
+Learn Videos,Your Company
+Logs,Acción realizada
+Logs,Elementos modificados
+Logs,Review
+Lotus Notes,Cuenta
+Lync,Cuenta
+MP9,Base de datos
+MP9,Cuenta
+MPLS Tiendas,Intermitencia
+MPLS Tiendas,Lento
+MPLS Tiendas,Modem
+MPLS Tiendas,Router
+MPLS Tiendas,Sin conexión
+Mac,Agente regular
+Mesas,Campos obligatorios
+Mesas,Catálogos
+Mesas,Estatus
+Mesas,Etapa
+Mesas,Políticas
+Mesas,Prioridades
+Mesas,Relaciones
+Mesas,Revisión
+Meta4,Cuenta
+Meta4,Desarrollo
+Meta4,E-Mind
+Meta4,ESS
+Meta4,Interface
+Meta4,Negocio
+Meta4,Nomina
+Meta4,PeopleNet
+Meta4,SOA
+Metas,Tiempo
+Metas,Trabajo
+Methods,Digital
+Methods,Traditional
+Microsoft Office,Excel
+Microsoft Office,Outlook
+Microsoft Office,Power Point
+Microsoft Office,Word
+Monitor,Configuración
+Monitor,Falla de colores
+Monitor,Instalación
+Monitor,No enciende
+Monitor,Nuevo
+Monitoreo,Impresora
+Monitoreo,Servidor
+Monitoreo,Solarwinds
+Monitoreo,Switch
+Móvil,Aparato
+Móvil,Baja
+Móvil,Contratación
+Móvil,Plan de datos
+Móvil,Roaming
+Navegadores,Chrome
+Navegadores,Firefox
+Navegadores,IE
+Navegadores,Safari
+Networking,BAM
+Networking,Dedicated Link
+Networking,Firewall
+Networking,MPLS
+Networking,VPN
+Networking,Wired
+Networking,Wireless
+No-Break,Instalación
+No-Break,No enciende
+No-Break,No respalda
+Oracle,Cuenta
+Oracle,Finanzas AP
+Oracle,Finanzas AR
+Oracle,Finanzas Alerta
+Oracle,Finanzas Aplicación
+Oracle,Finanzas FA
+Oracle,Finanzas FISO
+Oracle,Finanzas GL
+Oracle,Finanzas Informes
+Oracle,Finanzas OIE
+Oracle,LFRS
+Oracle,Materiales / Quality
+Oracle,Materiales Inprocurement / Compras
+Oracle,Materiales Inv
+Oracle,Materiales Mantenimiento
+Oracle,Materiales Manufcatura
+Oracle,Materiales PUT
+Oracle,Materiales Pedidos
+Oracle,Materiales Provisionamiento
+Oracle,Materiales Requisiciones
+Oracle,Password
+Oracle,QATI
+Oracle,SOA / Finanzas
+Oracle,SOA / Materiales
+Oracle,SOA / Ventas
+Oracle,Ventas OM
+Oracle,Ventas SHI
+Oracle Apps,Actualizaciones
+Oracle Apps,Admin Cuentas
+Oracle Apps,Clonado
+Oracle Apps,Configuración
+Oracle Apps,FailOver
+Oracle Apps,Reinicio
+Oracle Apps,instalación
+Oro a cuenta,No abre programa
+Oro a cuenta,No imprime recibo
+Pedidos,Error en marca y modelo
+Pedidos,No genera pedido
+Pedidos,No imprime recibo
+Perifericos,Bocinas
+Perifericos,Diadema
+Perifericos,HDD Externo
+Perifericos,Microfono
+Perifericos,Monitor
+Perifericos,Mouse
+Perifericos,Proyector
+Perifericos,Puertos USB
+Perifericos,Teclado
+Plantillas,Alta
+Plantillas,Baja
+Plantillas,Cambios
+Plantillas,Falla
+Políticas de Organización,Alta
+Políticas de Organización,Baja
+Políticas de Organización,Cambio
+Políticas de Organización,Falla
+Portal Proveedores,Cuenta
+Portal Proveedores,Empresas
+Portal Proveedores,Ordenes de Compra
+Portal Proveedores,Portal
+Portal Proveedores,Requisiciones
+Portal de Accesos,Cuenta
+Portal de Accesos,Homologación
+Portal de Costos,Portal de Costos
+Procedimientos,Alta
+Procedimientos,Baja
+Procedimientos,Modificar Atributo
+Procedimientos,eMail
+Proveedores,AVAYA
+Proveedores,AXTEL
+Proveedores,Acer
+Proveedores,Alestra
+Proveedores,BBS Red
+Proveedores,Dell
+Proveedores,HP
+Proveedores,Ingrammicro
+Proveedores,Microsoft
+Proveedores,Nextel
+Proveedores,Profitbricks
+Proveedores,Tech-Pro
+Proveedores,Tecsyso
+Proveedores,Telcel
+Proveedores,Telmex
+Préstamo de Equipo,Alta
+Préstamo de Equipo,Baja
+Préstamo de Equipo,Falla
+Real Time,Details
+Real Time,General
+Red,Access Point
+Red,Cable HDMI
+Red,Cable Telefonico
+Red,Cableado
+Red,Router
+Red,Wireless
+Red,wePresent
+Red LAN,Cableado
+Red LAN,Fibra
+Red LAN,Patch Cord
+Red LAN,Router
+Red LAN,Switch
+Red WAN,Cableado
+Red WAN,Enlace
+Red WAN,Soporte
+Red WiFi,Access Point
+Red WiFi,Cableado
+Red WiFi,Soporte
+Refacciones,Arturito
+Refacciones,Fuente
+Refacciones,Memoria RAM
+Refacciones,Pinpad
+Reglas de actividades en computadora,Estadísticas personales
+Reglas de actividades en computadora,Periodo de análisis
+Reglas de actividades en computadora,Pop-up de estado ánimo
+Reglas de actividades sin computadora,Actividades sin computadora
+Reglas de actividades sin computadora,Límite de tiempo fuera
+Reglas de actividades sin computadora,Pop-up de actividades sin computadora
+Reloj Checador,Energia
+Reloj Checador,Información
+Reloj Checador,Lector
+Reloj Checador,Servicio
+Remoto,Otro
+Remoto,VNC
+Requerimientos Técnicos,Conectividad
+Requerimientos Técnicos,Nombre de Usuario de Colega
+Requerimientos Técnicos,Sistema Operativo
+SAP,Configuración
+SAP,Instalación
+SAP,Planchado
+SAP,Roles
+SAP,Transportes
+SOLinux,Actualizaciones
+SOLinux,Configuración
+SOLinux,Cron Jobs
+SOLinux,File Systems
+SOLinux,Reinicio
+SOLinux,Respaldos
+SOLinux,Restauraciones
+SOLinux,Usuarios
+SOWindows,Actualizaciones
+SOWindows,Reinicio de Procesos
+SOWindows,Reinstalación
+SOWindows,Tareas Programadas
+SOWindows,Usuarios
+Servicio,Cambio de Lugar
+Servicio,Mantenimiento
+Servicio,Otro
+Servicio,Reset de Password
+Servicio,Respaldos de Informacióm
+Servicio,Soporte
+Servicio,Ventas
+Servicios,Axtel
+Servicios,CFE
+Servicios,Edificio
+Servicios,Telmex
+Servicios Únicos,Alta
+Servicios Únicos,Baja
+Servicios Únicos,Falla
+Servidores,Array
+Servidores,Back Up / Restore
+Servidores,Cartuchos
+Servidores,Enclosure
+Servidores,HDD
+Servidores,NIC
+Servidores,Perifericos
+Servidores,Procesadores
+Servidores,RAM
+Servidores,Storage
+Servidores,Storage EBS
+Servidores,Unidad de Cinta
+Sistema Operativo,Actualización
+Sistema Operativo,Asesoria
+Sistema Operativo,Configuración
+Sistema Operativo,Instalación
+Sistema Operativo,McOS X
+Sistema Operativo,Windows 10
+Sistema Operativo,Windows 7
+Sistema Operativo,Windows 8
+Sistema Operativo,Windows 8.1
+Sistemas Operativos,Actualizaciones
+Sistemas Operativos,Almacenamiento Local
+Sistemas Operativos,Almacenamiento Red
+Sistemas Operativos,Datos
+Sistemas Operativos,Linux
+Sistemas Operativos,Particiones
+Sistemas Operativos,Parámetros de Kernel
+Sistemas Operativos,Personalizaciones
+Sistemas Operativos,Procesos
+Sistemas Operativos,Proxy
+Sistemas Operativos,Puertos
+Sistemas Operativos,Rendimiento
+Sistemas Operativos,Scripts
+Sistemas Operativos,Tareas Programadas
+Sistemas Operativos,Usuarios
+Sistemas Operativos,Windows 10
+Sistemas Operativos,Windows 7
+Sistemas Operativos,Windows 8
+Sistemas Operativos,Windows 8.1
+Sistemas Operativos,Windows XP
+Software,Google Calendar
+Software,Google Drive
+Software,Google Mail
+Software,Pipedrive
+Software,RedBooth
+Software,Salesforce
+Standard,ADI
+Standard,Adobe Flash
+Standard,Cisco VPN
+Standard,Cliente Oracle
+Standard,Consola Virtual XP
+Standard,DataLoad
+Standard,Discoverer
+Standard,Imágenes
+Standard,Java
+Standard,MINIT AB
+Standard,MS OFFICE
+Standard,MS SQL SERVER
+Success Factor,Reset de Password
+Suggestions,Improvements
+Suggestions,New Features
+Teammates,Assign a Team
+Teammates,Change Team
+Teammates,Ignore Teammate
+Teammates,Inactivate Teammate
+Teammates,New Teammates
+Teams,Away Activities
+Teams,Befective Activated
+Teams,Consider Away After
+Teams,Delete Team/Subteam
+Teams,Mood Feature
+Teams,My Stats Feature
+Teams,Time Goal
+Technical Requirements,General
+Telefonia Movil,Configuracion
+Telefonia Movil,Garantia
+Telefonia Movil,Reparacion
+Tester,Windows
+Tipo de Cliente,Alta
+Tipo de Cliente,Baja
+Tipo de Cliente,Falla
+Tipos de Contrato,Alta
+Tipos de Contrato,Baja
+Tipos de Contrato,Falla
+Tipos de Equipo,Alta
+Tipos de Equipo,Baja
+Tipos de Equipo,Falla
+Traspasos,Error de marca y modelo
+Traspasos,Inventario
+Traspasos,La pieza es para otra sucursal
+Traspasos,No existe pedido en pieza
+Traspasos,No existe pieza
+Traspasos,No permite traspasar
+Traspasos,No se carga pieza en SAP
+Usuario,Contraseña
+Usuario,Foto
+Usuario,Idioma
+Usuario,Nombre
+Usuario,Zona Horaria
+Usuarios,Alta
+Usuarios,Baja
+Usuarios,Cambio
+VPN,Configuración
+VPN,Cuenta
+VPN,Falla
+VPN,Instalación
+VPN Tiendas,Intermitencia
+VPN Tiendas,Lento
+VPN Tiendas,Modem
+VPN Tiendas,Router
+VPN Tiendas,Sin conexión
+Variables,Alta
+Variables,Baja
+Variables,Falla
+Venta,Archivo dañado
+Venta,Error en indice
+Venta,No abre SUIC2
+Venta,No imprime
+Venta,Precio
+Venta,Promoción
+Ventas,Facturación
+Voz,Cableado de Voz
+Voz,Clave Llamadas
+Voz,Equipo Analógico
+Voz,Equipo VoIP
+Voz,Extensión
+Voz,Marcación Corta
+Windows,Agente regular
+Windows,Comprobador de requisitos de Windows
+Windows,Configuración
+Windows,Falla
+Windows,Lentitud
+Windows,Login
+Windows,Máquina Virtual de Windows
+Work Related Activities,Activities
+Work Related Activities,Categories

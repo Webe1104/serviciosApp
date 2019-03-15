@@ -1,0 +1,188 @@
+Catalog,name
+ANGLO,Access Point
+ANGLO,Cable de Red
+ANGLO,Controladora
+Accesos,Active Directory
+Accesos,BLIS
+Accesos,ColaboraTupy
+Accesos,Código Telefónico
+Accesos,Discoverer
+Accesos,Exchange
+Accesos,FolderCompartido
+Accesos,Internet
+Accesos,Lotus Notes
+Accesos,Lync
+Accesos,MP9
+Accesos,Meta4
+Accesos,Oracle
+Accesos,Portal Proveedores
+Accesos,Portal de Accesos
+Accesos,Success Factor
+Accesos,VPN
+Accesos,Windows
+Access,Account
+Administradores y Gerentes,Administrador
+Administradores y Gerentes,Gerente
+Administration,Accounts
+Administration,Administration
+Administration,Company
+Agente,Mac
+Agente,Requerimientos Técnicos
+Agente,Windows
+Aplicaciones,Colaboración
+Aplicaciones,Discoverer
+Aplicaciones,Epicor
+Aplicaciones,Facturación
+Aplicaciones,Future
+Aplicaciones,Meta4
+Aplicaciones,Oracle
+Aplicaciones,Portal Proveedores
+Aplicaciones,Portal de Costos
+Aplicaciones,Reloj Checador
+Aplicaciones,Ventas
+Befective,Comunicaciones
+Befective,Configuración
+Befective,Implementación
+Befective,Sistema Operativo
+Capital,Applications
+Capital,Assessment
+Capital,Hardware
+Capital,Networking
+Comunicaciones,Infraestructura
+Comunicaciones,Monitoreo
+Comunicaciones,Red LAN
+Comunicaciones,Red WAN
+Comunicaciones,Red WiFi
+Comunicaciones,Telefonia Movil
+Comunicaciones,Voz
+ControlCambio,Base de Datos
+ControlCambio,Comunicaciones
+ControlCambio,Oracle Apps
+ControlCambio,SOLinux
+ControlCambio,SOWindows
+Download,Agents
+Download,Technical Requirements
+Download,Tester
+Empresa,Información
+Empresa,Metas
+Empresa,Reglas de actividades en computadora
+Empresa,Reglas de actividades sin computadora
+Equipos y Colegas,Actividades relacionadas al trabajo
+Equipos y Colegas,Colegas
+Equipos y Colegas,Días Libres
+Equipos y Colegas,Equipos
+Equipos y Colegas,Inventario
+Equipos y Colegas,Logs
+Essential,Aplicaciones
+Essential,Hardware
+Essential,Infraestructura
+Essential,Red
+Essential,Servicio
+Essential,Sistema Operativo
+Estadisticas,Compartir Estadísticas
+Estadisticas,Ejecutivo
+Estadisticas,Estadísticas Automáticas
+Estadisticas,Histórico
+Estadisticas,Hoy
+Eutectic,Applicatons
+Eutectic,Assessment
+Eutectic,Hardware
+Eutectic,JDE
+Eutectic,Networking
+GC - Comunicaciones,CCTV
+GC - Comunicaciones,Internet
+GC - Comunicaciones,Intranet
+GC - Comunicaciones,MPLS Tiendas
+GC - Comunicaciones,VPN Tiendas
+GC - Hardware,Accesorios
+GC - Hardware,CPU
+GC - Hardware,Impresoras
+GC - Hardware,Laptop
+GC - Hardware,Monitor
+GC - Hardware,No-Break
+GC - Hardware,Perifericos
+GC - Hardware,Refacciones
+GC - Punto de Venta,Corte de caja
+GC - Punto de Venta,Oro a cuenta
+GC - Punto de Venta,Pedidos
+GC - Punto de Venta,Traspasos
+GC - Punto de Venta,Venta
+GC - Software,Antivirus
+GC - Software,Google Chrome
+GC - Software,Internet Explorer
+GC - Software,Microsoft Office
+GC - Software,Remoto
+GC - Software,SAP
+GC - Software,VPN
+GC - Software,Windows
+GC - Telefonía,Fija
+GC - Telefonía,Móvil
+Hardware,Desktop
+Hardware,Impresión
+Hardware,Laptop
+Hardware,Perifericos
+Hardware,Reloj Checador
+Hardware,Servidores
+LOLO,LOLO1
+LOLO,LOLO2
+PPOMX - Change Requests,HR Requests
+PPOMX - Change Requests,IT Requests
+PPOMX - Proveedores,Fabricantes
+PPOMX - Proveedores,Hardware
+PPOMX - Proveedores,Proveedores
+PPOMX - Proveedores,Servicios
+PPOMX - Proveedores,Software
+Payment,Contracts
+Payment,Methods
+Perfil,Usuario
+Self Service,Learn Videos
+Software,Agentes
+Software,Aplicaciones Servidor
+Software,Aplicación Oracle
+Software,Base de Datos
+Software,Clientes de Correo
+Software,Compresión de Datos
+Software,Documentos
+Software,Ingeniería
+Software,Navegadores
+Software,Sistemas Operativos
+Software,Standard
+Statistics,Automated Statistics
+Statistics,Executive
+Statistics,Historical
+Statistics,Real Time
+Sugerencias,Funcionalidades
+Sugerencias,Servicio
+Suggestions & Complains,Complains
+Suggestions & Complains,Suggestions
+Teams & Teammates,Create New Team / Subteam
+Teams & Teammates,Free Days
+Teams & Teammates,Inventory
+Teams & Teammates,Logs
+Teams & Teammates,Teammates
+Teams & Teammates,Teams
+Teams & Teammates,Work Related Activities
+itManager  - PPO - Interno,Actividades recurrentes
+itManager  - PPO - Interno,Catálogo de Servicio
+itManager  - PPO - Interno,Checklists
+itManager  - PPO - Interno,Clientes
+itManager  - PPO - Interno,Configuración de Acceso Remoto
+itManager  - PPO - Interno,Configuración de Organización
+itManager  - PPO - Interno,Contratos
+itManager  - PPO - Interno,Distribución
+itManager  - PPO - Interno,Feriados
+itManager  - PPO - Interno,General
+itManager  - PPO - Interno,Grupo de Agentes
+itManager  - PPO - Interno,Grupos de Permisos
+itManager  - PPO - Interno,Informes
+itManager  - PPO - Interno,Mesas
+itManager  - PPO - Interno,Plantillas
+itManager  - PPO - Interno,Políticas de Organización
+itManager  - PPO - Interno,Procedimientos
+itManager  - PPO - Interno,Préstamo de Equipo
+itManager  - PPO - Interno,Servicios Únicos
+itManager  - PPO - Interno,Tipo de Cliente
+itManager  - PPO - Interno,Tipos de Contrato
+itManager  - PPO - Interno,Tipos de Equipo
+itManager  - PPO - Interno,Usuarios
+itManager  - PPO - Interno,Variables
